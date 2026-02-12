@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sedang membangun masa depan (dan error baru)<br>10% Skill, 90% Ai<br>Kadang paham, kadang cuma ikut tutorial<br>Terbuka untuk kolaborasi asal sabar<br>Fun Fact: Debugging adalah olahraga favorit saya
+Sedang membangun masa depan (dan error baru)<br>10% Skill, 90% Ai<br>Kadang paham, kadang cuma ikut tutorial<br>Terbuka untuk kolaborasi asal sabar<br>Fun Fact: Debugging adalah olahraga favorit saya<br>Dev hanya nama samaran asli nya hama
 
 
 ## 🌐 Socials:
